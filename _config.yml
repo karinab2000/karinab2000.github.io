@@ -23,7 +23,7 @@ repository               : "karinab2000/karinab2000.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/1746562477133.jpg"
+  avatar           : "1746562477133.jpg"
   name             : "Karina L. Bellavia"
   pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
